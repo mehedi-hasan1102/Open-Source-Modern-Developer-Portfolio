@@ -61,8 +61,8 @@ Vercel for deployment
 **📦 Installation & Setup**
 
 ```
-git clone https://github.com/mehedi-hasan1102/m-hasan.vercel.app
-cd m-hasan-blogs
+git clone https://github.com/mehedi-hasan1102/Open-Source-Modern-Developer-Portfolio
+cd Open-Source-Modern-Developer-Portfolio
 pnpm install
 pnpm run dev
 ```
