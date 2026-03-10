@@ -30,7 +30,7 @@ const Footer = () => {
   const socialLinks: SocialLink[] = [
     { icon: Github, href: "https://github.com/mehedi-hasan1102", label: "GitHub" },
     { icon: Linkedin, href: "https://www.linkedin.com/in/mehedi-hasan1102/", label: "LinkedIn" },
-    { icon: FaEnvelope, href: "mailto:mehedi.hasan11023@gmail.com", label: "Email" },
+    { icon: FaEnvelope, href: "mailto:mehedi.hasan16777@gmail.com", label: "Email" },
     { icon: FaXTwitter, href: "https://x.com/mehedihasan1102", label: "Twitter" },
   ];
 

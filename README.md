@@ -81,7 +81,7 @@ Mehedi Hasan
 
 Full Stack Web Developer (MERN)
 
-Email: mehedi.hasan11023@gmail.com
+Email: mehedi.hasan16777@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/mehedi-hasan1102
 

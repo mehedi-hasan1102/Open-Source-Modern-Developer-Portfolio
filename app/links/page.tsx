@@ -55,7 +55,7 @@ const socialCategories: SocialCategory[] = [
       { icon: SiPeerlist, href: "https://peerlist.io/mehedihasan", label: "Peerlist" },
       { icon: FiGlobe, href: "https://mehedi-h.vercel.app", label: "Portfolio Website" },
       { icon: FiFileText, href: "/Resume_of_Mehedi_Hasan.pdf", label: "Resume" },
-      { icon: FiMail, href: "mailto:mehedi.hasan11023@gmail.com", label: "Email" },
+      { icon: FiMail, href: "mailto:mehedi.hasan16777@gmail.com", label: "Email" },
     ],
   },
   {
